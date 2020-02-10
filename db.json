@@ -2,5 +2,6 @@
   "ConfiguraTEF": {"success": true},
   "IniciaFuncaoTEF": {"success": true},
   "ContinuaFuncaoTEF": {"success": true},
-  "FinalizaFuncaoTEF": {"success": true}
+  "FinalizaFuncaoTEF": {"success": true},
+  "ForcaCargaTabela": {"success": true}
 }
