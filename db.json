@@ -1,5 +1,6 @@
 {
-  "BodyConf": {"success": true},
-  "BodyInicia": {"success": true},
-  "BodyContinua": {"success": true}
+  "ConfiguraTEF": {"success": true},
+  "IniciaFuncaoTEF": {"success": true},
+  "ContinuaFuncaoTEF": {"success": true}
+  "FinalizaFuncaoTEF": {"success": true}
 }
